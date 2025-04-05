@@ -21,7 +21,7 @@ const PRIMARY = {
   lighter: '#C8FACD',
   light: '#5BE584',
   main: '#674D9F',
-  dark: '#166df4',
+  dark: '#674D9F',
   darker: '#005249',
   contrastText: '#FFFFFF',
 };
